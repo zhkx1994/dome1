@@ -1,0 +1,8 @@
+{
+    "name": "zkx1994/dome1",
+    "description": "a test of composer",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
